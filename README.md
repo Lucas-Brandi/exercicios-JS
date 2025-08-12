@@ -9,7 +9,8 @@ Um contador de números que pode aumentar,diminuir ou zerar, a depender do que f
 Um site que pode alternar entre modo claro e modo escuro
 
 ---
-
+###🧮 Calculador de Imc
+Um site que calcula seu imc ao digitar os valores na tela.
 ## 📌 Tecnologias utilizadas
 
 - HTML5

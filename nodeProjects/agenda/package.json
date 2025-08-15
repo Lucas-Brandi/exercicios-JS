@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "inquirer": "^12.9.2",
+    "yargs": "^18.0.0"
+  },
+  "name": "agenda",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
